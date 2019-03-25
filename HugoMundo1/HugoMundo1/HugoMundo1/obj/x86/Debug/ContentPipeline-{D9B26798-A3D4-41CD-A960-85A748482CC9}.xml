@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D9B26798-A3D4-41CD-A960-85A748482CC9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Hugo\source\repos\HugoMundo1\HugoMundo1\HugoMundo1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hugo\source\repos\HugoMundo1\HugoMundo1\HugoMundo1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hugo\source\repos\HugoMundo1\HugoMundo1\HugoMundo1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hugo\source\repos\HugoMundo1\HugoMundo1\HugoMundo1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-01-14T16:25:19.362566-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
