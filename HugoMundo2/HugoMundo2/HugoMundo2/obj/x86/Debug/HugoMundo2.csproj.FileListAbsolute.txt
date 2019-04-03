@@ -1,0 +1,90 @@
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.exe
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.pdb
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CopyComplete
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.exe
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.pdb
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csprojAssemblyReference.cache
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.exe
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.pdb
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.exe
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.pdb
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CopyComplete
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.exe
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.pdb
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csprojAssemblyReference.cache
+D:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CoreCompileInputs.cache
+D:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CopyComplete
+D:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.exe
+D:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.pdb
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.exe
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.pdb
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csprojAssemblyReference.cache
+E:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CoreCompileInputs.cache
+E:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CopyComplete
+E:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.exe
+E:\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.pdb
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.exe
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\HugoMundo2.pdb
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.csproj.CopyComplete
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.exe
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\HugoMundo2.pdb

@@ -9,7 +9,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
-namespace HugoMundo1
+namespace HugoMundo2
 {
     public class Camera
     {
@@ -22,7 +22,7 @@ namespace HugoMundo1
 
         public Camera()
         {
-            this.position = Vector3.Right * 60;
+            this.position = Vector3.Backward * 20;
             this.target = Vector3.Zero;
             this.up = Vector3.Up;
             this.SetupView(this.position, this.target, this.up);
@@ -33,7 +33,7 @@ namespace HugoMundo1
         public void SetupView(Vector3 position, Vector3 target, Vector3 up)
         {
             //this.view = Matrix.CreateLookAt(position, target, up);
-            this.view = Matrix.CreateLookAt(new Vector3(-35, 0, 40), new Vector3(2, -8, 0), Vector3.Up);
+            this.view = Matrix.CreateLookAt(new Vector3(-20, 40, 80), new Vector3(2, 8, 0), Vector3.Up);
         }
 
         public void SetupProjection()
@@ -42,7 +42,7 @@ namespace HugoMundo1
 
             this.projection = Matrix.CreatePerspectiveFieldOfView(MathHelper.PiOver4,
                                                                   screen.GetWidth() / (float)screen.GetHeight(),
-                                                                  0.0000001f,
+                                                                  0.1f,
                                                                   1000);
         }
 

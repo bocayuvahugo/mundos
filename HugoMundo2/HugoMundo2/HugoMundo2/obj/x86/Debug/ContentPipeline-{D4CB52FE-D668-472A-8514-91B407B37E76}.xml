@@ -3,15 +3,15 @@
   <Asset Type="Pipeline:BuildItemCollection">
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
-      <ContentProjectGUID>{D9B26798-A3D4-41CD-A960-85A748482CC9}</ContentProjectGUID>
+      <ContentProjectGUID>{D4CB52FE-D668-472A-8514-91B407B37E76}</ContentProjectGUID>
       <TargetPlatform>Windows</TargetPlatform>
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo1\HugoMundo1\HugoMundo1Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo1\HugoMundo1\HugoMundo1\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo1\HugoMundo1\HugoMundo1\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo1\HugoMundo1\HugoMundo1\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

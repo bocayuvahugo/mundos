@@ -1,0 +1,10 @@
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentproj.CoreCompileInputs.cache
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentprojAssemblyReference.cache
+D:\Área de Trabalho\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentproj.CoreCompileInputs.cache
+D:\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentprojAssemblyReference.cache
+D:\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentproj.CoreCompileInputs.cache
+E:\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentprojAssemblyReference.cache
+E:\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\mundos\HugoMundo2\HugoMundo2\HugoMundo2Content\obj\x86\Debug\HugoMundo2Content.contentproj.CoreCompileInputs.cache
