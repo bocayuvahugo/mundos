@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\BrickWall.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\BrickWall.xnb</Output>
       <Time>2019-04-25T22:16:13.0879319-03:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\Door.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\Door.xnb</Output>
       <Time>2019-04-25T22:16:13.1152616-03:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\Grass.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\Grass.xnb</Output>
       <Time>2019-04-25T22:16:13.1181889-03:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\Helix.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\Helix.xnb</Output>
       <Time>2019-04-25T22:16:13.1563997-03:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\Rooftop.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\Rooftop.xnb</Output>
       <Time>2019-04-25T22:16:13.2108574-03:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\WindowA.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\WindowA.xnb</Output>
       <Time>2019-04-25T22:16:13.2548979-03:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\WindowB.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\WindowB.xnb</Output>
       <Time>2019-04-25T22:16:13.2803311-03:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\WoodWall.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\Textures\WoodWall.xnb</Output>
       <Time>2019-04-25T22:16:13.31175-03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -80,10 +80,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

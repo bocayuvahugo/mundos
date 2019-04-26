@@ -1,2 +1,4 @@
 C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4Content\obj\x86\Debug\HugoMundo4Content.contentprojAssemblyReference.cache
 C:\Users\Hugo\source\repos\HugoMundo4\HugoMundo4\HugoMundo4Content\obj\x86\Debug\HugoMundo4Content.contentproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4Content\obj\x86\Debug\HugoMundo4Content.contentprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\mundos\HugoMundo4\HugoMundo4\HugoMundo4Content\obj\x86\Debug\HugoMundo4Content.contentproj.CoreCompileInputs.cache
