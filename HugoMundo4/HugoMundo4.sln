@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugoMundo4", "HugoMundo4\HugoMundo4\HugoMundo4.csproj", "{3E0C3378-031C-44A2-9C46-03C6CD86116F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "HugoMundo4Content", "HugoMundo4\HugoMundo4Content\HugoMundo4Content.contentproj", "{9D001894-020C-4533-B269-0803684060BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0C3378-031C-44A2-9C46-03C6CD86116F}.Debug|x86.ActiveCfg = Debug|x86
+		{3E0C3378-031C-44A2-9C46-03C6CD86116F}.Debug|x86.Build.0 = Debug|x86
+		{3E0C3378-031C-44A2-9C46-03C6CD86116F}.Release|x86.ActiveCfg = Release|x86
+		{3E0C3378-031C-44A2-9C46-03C6CD86116F}.Release|x86.Build.0 = Release|x86
+		{9D001894-020C-4533-B269-0803684060BB}.Debug|x86.ActiveCfg = Debug|x86
+		{9D001894-020C-4533-B269-0803684060BB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199FFD8B-DB76-4C07-8EB0-09A2D443D223}
+	EndGlobalSection
+EndGlobal

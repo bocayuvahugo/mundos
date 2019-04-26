@@ -1,0 +1,6 @@
+C:\Users\Hugo\source\repos\HugoMundo3\HugoMundo3\HugoMundo3Content\obj\x86\Debug\HugoMundo3Content.contentprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\HugoMundo3\HugoMundo3\HugoMundo3Content\obj\x86\Debug\HugoMundo3Content.contentproj.CoreCompileInputs.cache
+E:\HugoMundo3\HugoMundo3\HugoMundo3Content\obj\x86\Debug\HugoMundo3Content.contentprojAssemblyReference.cache
+E:\HugoMundo3\HugoMundo3\HugoMundo3Content\obj\x86\Debug\HugoMundo3Content.contentproj.CoreCompileInputs.cache
+F:\HugoMundo3\HugoMundo3\HugoMundo3Content\obj\x86\Debug\HugoMundo3Content.contentprojAssemblyReference.cache
+F:\HugoMundo3\HugoMundo3\HugoMundo3Content\obj\x86\Debug\HugoMundo3Content.contentproj.CoreCompileInputs.cache
