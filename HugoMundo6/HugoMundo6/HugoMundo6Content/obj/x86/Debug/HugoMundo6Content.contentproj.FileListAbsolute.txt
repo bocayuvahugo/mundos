@@ -1,0 +1,2 @@
+C:\Users\Hugo\source\repos\HugoMundo6\HugoMundo6\HugoMundo6Content\obj\x86\Debug\HugoMundo6Content.contentprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\HugoMundo6\HugoMundo6\HugoMundo6Content\obj\x86\Debug\HugoMundo6Content.contentproj.CoreCompileInputs.cache
