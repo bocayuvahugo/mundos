@@ -7,7 +7,7 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Effects\Effect1.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Effects\Effect1.xnb</Output>
       <Time>2019-05-08T00:36:30.6157475-03:00</Time>
     </Item>
     <Item>
@@ -16,8 +16,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Effects\MotionEffect.xnb</Output>
-      <Time>2019-05-09T18:05:39.2568739-03:00</Time>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Effects\MotionEffect.xnb</Output>
+      <Time>2019-05-09T18:16:05.8671381-03:00</Time>
     </Item>
     <Item>
       <Source>Textures\BrickWall.jpg</Source>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\BrickWall.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\BrickWall.xnb</Output>
       <Time>2019-05-07T22:15:21.254752-03:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\BrickWallSnow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\BrickWallSnow.xnb</Output>
       <Time>2019-05-07T22:15:21.2796852-03:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Door.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Door.xnb</Output>
       <Time>2019-05-07T22:15:21.2926503-03:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\DoorSnow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\DoorSnow.xnb</Output>
       <Time>2019-05-07T22:15:21.3096052-03:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Grass.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Grass.xnb</Output>
       <Time>2019-05-07T22:15:21.3345393-03:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\HeightMap.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\HeightMap.xnb</Output>
       <Time>2019-05-09T18:13:54.7623009-03:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Helix.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Helix.xnb</Output>
       <Time>2019-05-07T22:15:21.3514931-03:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\HelixSnow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\HelixSnow.xnb</Output>
       <Time>2019-05-07T22:15:21.3614663-03:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Rooftop.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Rooftop.xnb</Output>
       <Time>2019-05-07T22:15:21.3873973-03:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\RooftopSnow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\RooftopSnow.xnb</Output>
       <Time>2019-05-07T22:15:21.4063465-03:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Snow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Snow.xnb</Output>
       <Time>2019-05-07T22:15:21.4163556-03:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Tree.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Tree.xnb</Output>
       <Time>2019-05-07T22:15:21.425296-03:00</Time>
     </Item>
     <Item>
@@ -133,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\TreeSnow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\TreeSnow.xnb</Output>
       <Time>2019-05-07T22:15:21.438269-03:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WindowA.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WindowA.xnb</Output>
       <Time>2019-05-07T22:15:21.4592052-03:00</Time>
     </Item>
     <Item>
@@ -151,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WindowASnow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WindowASnow.xnb</Output>
       <Time>2019-05-07T22:15:21.4802521-03:00</Time>
     </Item>
     <Item>
@@ -160,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WindowB.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WindowB.xnb</Output>
       <Time>2019-05-07T22:15:21.5011957-03:00</Time>
     </Item>
     <Item>
@@ -169,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WindowBSnow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WindowBSnow.xnb</Output>
       <Time>2019-05-07T22:15:21.51516-03:00</Time>
     </Item>
     <Item>
@@ -178,7 +178,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WoodWall.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WoodWall.xnb</Output>
       <Time>2019-05-07T22:15:21.5321146-03:00</Time>
     </Item>
     <Item>
@@ -187,7 +187,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WoodWallSnow.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\WoodWallSnow.xnb</Output>
       <Time>2019-05-07T22:15:21.567139-03:00</Time>
     </Item>
     <Item>
@@ -196,7 +196,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Water.xnb</Output>
+      <Output>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\Textures\Water.xnb</Output>
       <Time>2019-05-08T00:28:46.2695789-03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -206,10 +206,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Hugo\source\repos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hugo\source\repos\mundos\HugoMundo8\HugoMundo8\HugoMundo8\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

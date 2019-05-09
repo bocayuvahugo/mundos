@@ -28,9 +28,7 @@ namespace HugoMundo8
         Mill mill1;
         Mill mill2;
         TreeManager treeManager;
-        Sea sea;
-        int temp;
-        bool morph;
+        Sea sea; 
 
         public Game1()
         {
@@ -50,9 +48,6 @@ namespace HugoMundo8
             this.screen = Screen.GetInstance();
             this.screen.SetWidth(graphics.PreferredBackBufferWidth);
             this.screen.SetHeight(graphics.PreferredBackBufferHeight);
-
-            temp = 0;
-            morph = false;
 
             base.Initialize();
         }
@@ -93,7 +88,9 @@ namespace HugoMundo8
         }
 
         protected override void Draw(GameTime gameTime)
-        {                      
+        {
+            GraphicsDevice.Clear(Color.LightSkyBlue);
+
 
             this.doors.Draw(this.camera);
             this.windowA.Draw(this.camera, GraphicsDevice);
