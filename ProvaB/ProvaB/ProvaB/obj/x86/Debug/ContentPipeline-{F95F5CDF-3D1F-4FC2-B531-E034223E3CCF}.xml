@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\BrickWall.jpg</Source>
+      <Name>Textures\BrickWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Área de Trabalho\ProvaB\ProvaB\ProvaB\bin\x86\Debug\Content\Textures\BrickWall.xnb</Output>
+      <Time>2019-05-02T09:43:53.2939602-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Grass.png</Source>
+      <Name>Textures\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Área de Trabalho\ProvaB\ProvaB\ProvaB\bin\x86\Debug\Content\Textures\Grass.xnb</Output>
+      <Time>2019-05-02T09:43:53.305954-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Helix.png</Source>
+      <Name>Textures\Helix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Área de Trabalho\ProvaB\ProvaB\ProvaB\bin\x86\Debug\Content\Textures\Helix.xnb</Output>
+      <Time>2019-05-02T09:43:53.3109538-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tree.png</Source>
+      <Name>Textures\Tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Área de Trabalho\ProvaB\ProvaB\ProvaB\bin\x86\Debug\Content\Textures\Tree.xnb</Output>
+      <Time>2019-05-02T12:00:32.3827601-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Effect1.fx</Source>
+      <Name>Effects\Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Área de Trabalho\ProvaB\ProvaB\ProvaB\bin\x86\Debug\Content\Effects\Effect1.xnb</Output>
+      <Time>2019-05-02T12:03:07.3572851-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F95F5CDF-3D1F-4FC2-B531-E034223E3CCF}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Área de Trabalho\ProvaB\ProvaB\ProvaBContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Área de Trabalho\ProvaB\ProvaB\ProvaB\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Área de Trabalho\ProvaB\ProvaB\ProvaB\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Área de Trabalho\ProvaB\ProvaB\ProvaB\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-01-14T16:25:19.362566-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

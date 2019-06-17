@@ -1,0 +1,42 @@
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Content\Textures\Grass.xnb
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Content\Textures\heightMap.xnb
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\ProvaA.exe
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\ProvaA.pdb
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.csproj.CopyComplete
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.exe
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.pdb
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Content\Effects\Effect1.xnb
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Content\Textures\Grass.xnb
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Content\Textures\heightMap.xnb
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\ProvaA.exe
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\ProvaA.pdb
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.csprojAssemblyReference.cache
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.csproj.CopyComplete
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.exe
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaA\obj\x86\Debug\ProvaA.pdb

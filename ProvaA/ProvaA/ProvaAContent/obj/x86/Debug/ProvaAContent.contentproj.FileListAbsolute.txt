@@ -1,0 +1,4 @@
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaAContent\obj\x86\Debug\ProvaAContent.contentprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\ProvaA\ProvaA\ProvaAContent\obj\x86\Debug\ProvaAContent.contentproj.CoreCompileInputs.cache
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaAContent\obj\x86\Debug\ProvaAContent.contentprojAssemblyReference.cache
+D:\Área de Trabalho\ProvaA\ProvaA\ProvaAContent\obj\x86\Debug\ProvaAContent.contentproj.CoreCompileInputs.cache

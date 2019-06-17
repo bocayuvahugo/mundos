@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaB", "ProvaB\ProvaB\ProvaB.csproj", "{964FA59B-9B92-4CC0-902C-2917C15590CB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ProvaBContent", "ProvaB\ProvaBContent\ProvaBContent.contentproj", "{F95F5CDF-3D1F-4FC2-B531-E034223E3CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964FA59B-9B92-4CC0-902C-2917C15590CB}.Debug|x86.ActiveCfg = Debug|x86
+		{964FA59B-9B92-4CC0-902C-2917C15590CB}.Debug|x86.Build.0 = Debug|x86
+		{964FA59B-9B92-4CC0-902C-2917C15590CB}.Release|x86.ActiveCfg = Release|x86
+		{964FA59B-9B92-4CC0-902C-2917C15590CB}.Release|x86.Build.0 = Release|x86
+		{F95F5CDF-3D1F-4FC2-B531-E034223E3CCF}.Debug|x86.ActiveCfg = Debug|x86
+		{F95F5CDF-3D1F-4FC2-B531-E034223E3CCF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C11BF3-37B3-4E08-96A2-6D482EFF1E46}
+	EndGlobalSection
+EndGlobal
